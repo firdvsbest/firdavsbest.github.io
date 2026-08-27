@@ -1,1 +1,35 @@
 # firdavsbest.github.io
+<!doctype html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap" rel="stylesheet">
+<meta charset="utf-8">
+<title>Firdavs Abdurazokov</title>
+    <style>
+        body {background-color: cornsilk;}
+        body{
+            font-family: "Black Ops One", system-ui;
+            font-weight: 400;
+            font-style: normal;}
+
+        h1 { color: red;
+            text-align: center;
+            font-family: "Fredoka", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 700;
+            font-style: normal;
+            font-variation-settings: "wdth" 100;}
+        
+        h2 {color: blue;}
+    </style>
+</head>
+<body>
+    <h1>Firdavs</h1>
+    <h2>Albion College Student</h2>
+    <img src="mcqueen.jpg" alt="aa" style="width: 100%;">    
+    <p>This is a paragraph about A.Firdavs. He is a student at 
+    <a href="https://www.albion.edu/">Albion College</a>.</p>
+</body>
+</html>
